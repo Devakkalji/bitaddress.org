@@ -1,3 +1,14 @@
-Single wallet page: Default SECRET format change to WIF Compressed.
+Single wallet page: Default SECRET format show as WIF Compressed.
+
+Update Tests.
+
+Follow: https://bitcointalk.org/index.php?topic=43496.0
+
+Testnet Edition (for developers) add ?testnet=true to the end of the URL
+
+To run the unit tests add ?unittests=true to the end of the URL
+To run the async unit tests add ?asyncunittests=true to the end of the URL
+To view the seed pool add ?showseedpool=true to the end of the URL
 
 other branding & Misc changes.
+
